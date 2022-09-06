@@ -1,4 +1,4 @@
-#Things I'm trying to improve on
+###Things I'm trying to improve on
 
 Self-learning web developer trying to get an actual job with no degree. Here are the things I do!
 
